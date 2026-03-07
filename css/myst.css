@@ -162,7 +162,7 @@ color: white;
   color: white;
 }
 .icon .fa-heart:hover {
-  color: #ff0000;
+  color: #8ba9bd;
    transition: color 0.3s linear;
    -webkit-transition: color 0.3s linear;
    -moz-transition: color 0.3s linear;
@@ -334,7 +334,7 @@ i {
   color: white;
 }
 .fa-heart:hover {
-  color: #ff0000;
+  color: #8ba9bd;
    transition: color 0.3s linear;
    -webkit-transition: color 0.3s linear;
    -moz-transition: color 0.3s linear;
@@ -442,4 +442,5 @@ input[type=range]:focus::-ms-fill-lower {
 }
 input[type=range]:focus::-ms-fill-upper {
   background: #ffb6c1;
+
 }
